@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"SemVersion": "1.1.1",
+	"SemVersion": "1.1.2",
 	"FriendlyName": "MiniMap",
 	"Description": "A Ingame MiniMap",
 	"Category": "Modding",
@@ -19,10 +19,10 @@
 		{
 			"Enabled": true,
 			"Name": "SML",
-			"SemVersion": "^3.11.1",
+			"SemVersion": "^3.12.0",
 			"bIsOptional": false
 		}
 	],
 	"AcceptsAnyRemoteVersion": false,
-	"GameVersion": ">=416835"
+	"GameVersion": ">=491125"
 }
